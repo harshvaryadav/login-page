@@ -1,0 +1,71 @@
+body{
+      background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/stars-on-the-dark-blue-night_thumbnail-1080_01.png);
+      background-size: 100% 1000px;
+      background-repeat: no-repeat;
+}
+#div1{
+      width:500px;
+      height:400px;
+      margin:auto;
+      margin-top:100px;
+      text-align:center;
+      background-color: rgba(0,0,0,0.6);
+}
+.d{
+      width:200px;
+      height:40px;
+      margin:auto;
+      margin-top:30px;
+      position:relative;
+      text-align:center;
+}
+s1,s2{
+       visibility:hidden;
+       color:red;
+}
+.d input{
+          width:100%;
+          height:32px;
+          text-align:center;
+          outline:none;
+          border:4px solid aqua;
+          border-radius:10px;
+}
+h2{
+      padding-top:30px;
+      font-size:25px;
+      color:white;
+}
+#btn{
+      width:50%;
+      height:40px;
+      color:rgb(255, 255, 255);
+      background-color:black;
+      border:2px solid yellow;
+      border-radius:10px;
+}
+#s1{
+      color:red;
+      visibility:hidden;
+}
+#s2{
+      color:red;
+      visibility:hidden;
+}
+
+i{
+    position:absolute;
+    right:0px;
+    top:16px;
+    visibility: hidden;
+}
+.fas.fa-check-circle{
+      color:rgb(53, 215, 243);
+}
+.fas.fa-exclamation-circle
+{
+      color:red; 
+}
+#btn:hover{
+            background-color:rgb(241, 241, 78);
+}
